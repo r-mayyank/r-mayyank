@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A web3 entusiast working building on solana with rust 🦀 and full-stack dev</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<p align="left">
+<p align="left"><img align="center" src="https://wakatime.com/badge/user/791a3258-6c41-4d69-9fae-1e245d634626.svg" alt="r-mayyank" />
   <img align="center" src="https://komarev.com/ghpvc/?username=r-mayyank&label=Profile%20views&color=0e75b6&style=flat" alt="r-mayyank" /></p>
 
 - 🌱 I’m currently learning **Web3 and Web Dev**
