@@ -12,4 +12,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-mayyank&" alt="r-mayyank" /></p>
 <p><img align="center" src="https://wakatime.com/badge/user/791a3258-6c41-4d69-9fae-1e245d634626.svg" alt="r-mayyank" /></p>
 <p><img align="center" src="https://wakatime.com/badge/user/791a3258-6c41-4d69-9fae-1e245d634626.svg" alt="r-mayyank" /></p>
+[![wakatime](https://wakatime.com/badge/user/791a3258-6c41-4d69-9fae-1e245d634626.svg)](https://wakatime.com/@791a3258-6c41-4d69-9fae-1e245d634626)
 
