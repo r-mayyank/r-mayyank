@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web3 and Web Dev**
 - 👨‍💻 Check my portfolio at [https://www.mayankraja.tech/](https://www.mayankraja.tech/)
-- - 📫 How to reach me **thelueblue+dev@gmail.com**
+- 📫 How to reach me **thelueblue+dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
